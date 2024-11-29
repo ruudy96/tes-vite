@@ -33,6 +33,8 @@ function App() {
 
         <p className="">new two line</p>
 
+        <p className="">new three line</p>
+
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more tes baru / tessss baru /
