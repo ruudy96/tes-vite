@@ -35,7 +35,7 @@ function App() {
 
         <p className="">new three line</p>
 
-        <p> NEW dev </p>
+        <p> NEW dev lala</p>
 
       </div>
       <p className="read-the-docs">
