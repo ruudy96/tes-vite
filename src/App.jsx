@@ -37,7 +37,7 @@ function App() {
 
         <p> NEW dev lala yaaa</p>
 
-        <p> new dev pushh </p>
+        <p> new dev pushh yaya</p>
 
       </div>
       <p className="read-the-docs">
