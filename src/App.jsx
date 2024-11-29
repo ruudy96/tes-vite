@@ -28,7 +28,7 @@ function App() {
         </p>
 
         <p>
-          neww line
+          neww line ini baru dari user 2
         </p>
 
         <p className="">new two line</p>
