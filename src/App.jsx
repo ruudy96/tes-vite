@@ -35,6 +35,8 @@ function App() {
 
         <p className="">new three line</p>
 
+        <p> NEW dev </p>
+
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more tes baru / tessss baru /
