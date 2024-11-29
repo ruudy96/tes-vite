@@ -31,7 +31,7 @@ function App() {
           neww line ini baru dari user 2 ggg
         </p>
 
-        <p className="">new two line</p>
+        <p className="">new two line tigaaaaaaa</p>
 
       </div>
       <p className="read-the-docs">
