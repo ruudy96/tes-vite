@@ -37,6 +37,8 @@ function App() {
 
         <p> NEW dev lala yaaa</p>
 
+        <p> new dev pushh </p>
+
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more tes baru / tessss baru /
